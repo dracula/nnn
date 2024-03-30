@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [nnn](https://github.com/jarun/nnn)
 
 #### Install
 

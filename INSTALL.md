@@ -3,6 +3,7 @@
 #### Install
 
 Add this to the shell startup script (eg. bashrc)
+
 ```
 # DRACULA COLOR SCHEME
 # Background    3B
@@ -20,7 +21,9 @@ Add this to the shell startup script (eg. bashrc)
 BLK="D4" CHR="DE" DIR="B7" EXE="78" REG="E7" HARDLINK="9F" SYMLINK="9F" MISSING="67" ORPHAN="D2" FIFO="E5" SOCK="E5" OTHER="D2"
 export NNN_FCOLORS="$BLK$CHR$DIR$EXE$REG$HARDLINK$SYMLINK$MISSING$ORPHAN$FIFO$SOCK$OTHER"
 ```
+
 Or this for simplicity
+
 ```
 export NNN_FCOLORS="D4DEB778E79F9F67D2E5E5D2"
 ```
